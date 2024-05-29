@@ -1,0 +1,10 @@
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\bin\Debug\Universite GANO Hesaplama.exe.config
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\bin\Debug\Universite GANO Hesaplama.exe
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\bin\Debug\Universite GANO Hesaplama.pdb
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\obj\Debug\Universite GANO Hesaplama.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\obj\Debug\Universite_GANO_Hesaplama.Form1.resources
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\obj\Debug\Universite_GANO_Hesaplama.Properties.Resources.resources
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\obj\Debug\Universite GANO Hesaplama.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\obj\Debug\Universite GANO Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\obj\Debug\Universite GANO Hesaplama.exe
+C:\Users\Emre\source\repos\Universite GANO Hesaplama\Universite GANO Hesaplama\obj\Debug\Universite GANO Hesaplama.pdb
